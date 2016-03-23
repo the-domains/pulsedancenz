@@ -1,14 +1,29 @@
+name: pulsedancenz
+favicon: null
 layout_spectrum: 0.5896057
 typography_spectrum: 0.4587814
+title: 'Pulse Dance Studio: West Coast Swing in Auckland, New Zealand'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4923852
-  lightness: 0.613562
-  brandStrength: 0.1125751
-  rhythmicContrast: 0.9389964
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: pulsedancenz
+  brandStrength: 0.1125751
+  lightness: 0.613562
+  saturation: 0.4923852
+  rhythmicContrast: 0.9389964
+purpose: []
