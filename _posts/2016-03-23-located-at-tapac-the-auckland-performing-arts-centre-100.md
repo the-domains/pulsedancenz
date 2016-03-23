@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Located at TAPAC - The Auckland Performing Arts Centre, 100 Motions Road, Western Springs, 1022'
-datePublished: '2016-03-23T05:35:57.759Z'
-dateModified: '2016-03-23T05:35:29.454Z'
+datePublished: '2016-03-23T05:46:26.957Z'
+dateModified: '2016-03-23T05:41:07.669Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-23-located-at-tapac-the-auckland-performing-arts-centre-100.md
@@ -22,6 +22,8 @@ url: located-at-tapac-the-auckland-performing-arts-centre-100/index.html
 _type: Article
 
 ---
+![TAPAC - The Auckland Performing Arts Centre (Front)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dd69ae5-5ec5-4b13-86c1-756cbb21c97b.jpg)
+
 Located at TAPAC - The Auckland Performing Arts Centre, 100 Motions Road, Western Springs, 1022
 
 Contact us at info@pulsedance.nz or +64 (0)21 132 8535 (Ani Fuller, Principal)
