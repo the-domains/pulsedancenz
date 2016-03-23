@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Located at TAPAC - The Auckland Performing Arts Centre, 100 Motions Road, Western Springs, 1022'
-datePublished: '2016-03-23T04:38:17.736Z'
-dateModified: '2016-03-23T04:37:56.404Z'
+datePublished: '2016-03-23T05:31:33.794Z'
+dateModified: '2016-03-23T05:30:06.251Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-23-located-at-tapac-the-auckland-performing-arts-centre-100.md
@@ -24,6 +24,14 @@ _type: Article
 ---
 Located at TAPAC - The Auckland Performing Arts Centre, 100 Motions Road, Western Springs, 1022
 
+Contact us at info@pulsedance.nz or +64 (0)21 132 8535 (Ani Fuller, Principal)
+
 By car: TAPAC is close to the St Lukes motorway offramp and Great North Road. (There is a huge free carpark at the front of the building for your use.)
 
 By bus: TAPAC is close to the Zoo and MOTAT bus stops on Great North Road and Meola Road.
+
+TAPAC's Studio 2 features a 126sqm ("large") sprung floor, great sound, portable mirrors, a sliding glass wall and ceiling ventilation, and air conditioning, as well as adjustable 'mood lighting,' for Social Dancing! It's a delightful, inviting space!
+
+TAPAC's licenced cafe/bar is often open on Thursday evenings. Imbibe \*responsibly\* in a refreshing beer or wine, juice, coffee/tea/hot chocolate and/or icecream or snacks. Chilled filtered water is available at all times.
+
+Coming straight from work or the gym? Bring a towel, antiperspirant deoderant and fresh clothes. TAPAC has shower and change facilities on site.
