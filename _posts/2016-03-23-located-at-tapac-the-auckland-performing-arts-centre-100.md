@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Located at TAPAC - The Auckland Performing Arts Centre, 100 Motions Road, Western Springs, 1022'
-datePublished: '2016-03-23T04:15:23.243Z'
-dateModified: '2016-03-23T04:15:16.612Z'
+datePublished: '2016-03-23T04:20:32.141Z'
+dateModified: '2016-03-23T04:15:31.469Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-23-located-at-tapac-the-auckland-performing-arts-centre-100.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-located-at-tapac-the-auckland-performing-arts-centre-100.md
-published: true
 url: located-at-tapac-the-auckland-performing-arts-centre-100/index.html
 _type: Article
 
