@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'West Coast Swing is fun to watch and fun to do! Our tailored curriculum and expert staff make West Coast Swing easy to learn!'
-datePublished: '2016-03-24T05:49:06.384Z'
-dateModified: '2016-03-24T05:48:58.956Z'
+datePublished: '2016-03-24T06:01:25.919Z'
+dateModified: '2016-03-24T06:01:17.236Z'
 title: "Dance for fun, friends and fitness!\_"
 author: []
 sourcePath: _posts/2016-03-23-west-coast-swing-is-fun-to-watch-and-fun-to-do-our-curricul.md
