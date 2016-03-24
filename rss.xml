@@ -4,8 +4,15 @@
         <description><![CDATA[Pulse Dance Studio: West Coast Swing in Auckland, New Zealand]]></description>
         <link>https://thegrid.ai/pulsedancenz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 05:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 05:42:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulsedancenz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Located at TAPAC - The Auckland Performing Arts Centre, 100 Motions Road, Western Springs, 1022</p>]]></description>
+            <link>https://thegrid.ai/pulsedancenz/located-at-tapac-the-auckland-performing-arts-centre-100/index.html</link>
+            <guid isPermaLink="false">3bd70e7c-c6bf-4649-b85f-89a27688b747</guid>
+            <pubDate>Thu, 24 Mar 2016 05:41:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Pulse Dance Studio offers West Coast Swing group classes, private lessons, workshops, social activities and events in Auckland, New Zealand.</p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/pulsedancenz/west-coast-swing-is-fun-to-watch-and-fun-to-do-our-curricul/index.html</link>
             <guid isPermaLink="false">20591caf-3302-46d3-abb4-e10474061d73</guid>
             <pubDate>Wed, 23 Mar 2016 05:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Located at TAPAC - The Auckland Performing Arts Centre, 100 Motions Road, Western Springs, 1022</p>]]></description>
-            <link>https://thegrid.ai/pulsedancenz/located-at-tapac-the-auckland-performing-arts-centre-100/index.html</link>
-            <guid isPermaLink="false">3bd70e7c-c6bf-4649-b85f-89a27688b747</guid>
-            <pubDate>Wed, 23 Mar 2016 05:59:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
